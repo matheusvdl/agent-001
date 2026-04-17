@@ -1,2 +1,8 @@
 fastapi
 uvicorn[standard]
+langchain>=0.3
+langchain-openai>=0.2
+langfuse>=2.0
+openai>=1.0
+python-dotenv
+sse-starlette
